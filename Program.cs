@@ -31,7 +31,6 @@ namespace ConsoleApp
             int number = 41;
             int chislo = (number/10)+(number%10)*10;
             Console.WriteLine($"Двузначное число = {(chislo)}"); // 4 задание
-
             int N = 10985;
             int minuta = N/60;
             Console.WriteLine($"Количество целых минут = {(minuta)}"); // 5 задание
